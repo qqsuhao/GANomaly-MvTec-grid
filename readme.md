@@ -17,7 +17,7 @@
 [[reference](https://github.com/samet-akcay/ganomaly.git)]
 
 ## results
-![0-0](experiments\GANomaly_test\0-0.png)
+![0-1](https://github.com/qqsuhao/GANomaly-MvTec-grid/experiments/GANomaly_test/0-0.png)
 ![0-0](experiments\GANomaly_test\0-2.png)
 ![0-0](experiments\GANomaly_test\69-0.png)
 ![0-0](experiments\GANomaly_test\69-2.png)
